@@ -12,7 +12,7 @@ dependencies:
   version: 0.0.5
 - name: ttc-campaigns-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 7.1.29
+  version: 7.1.30
 - name: ttc-connectors-dummytwitter
   repository: http://jenkins-x-chartmuseum:8080
   version: 7.1.30
