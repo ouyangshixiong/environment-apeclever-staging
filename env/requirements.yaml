@@ -18,7 +18,7 @@ dependencies:
   version: 7.1.32
 - name: ttc-connectors-dummytwitter
   repository: http://jenkins-x-chartmuseum:8080
-  version: 7.1.30
+  version: 7.1.34
 - name: ttc-rb-english-campaign
   repository: http://jenkins-x-chartmuseum:8080
   version: 7.1.32
